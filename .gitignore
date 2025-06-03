@@ -1,0 +1,6 @@
+/__pycache__
+/dataset
+/dataset_w_pretrain
+/model_weights
+/model_weights_w_pretrain
+/pretrain_model
